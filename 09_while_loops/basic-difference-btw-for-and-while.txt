@@ -1,0 +1,10 @@
+When to use for loop: When you know (or can easily determine) exactly how many times you need to repeat something, or when you want to iterate over every item in a sequence.
+    Print numbers from 1 to 10. (Known range)
+    Print each character in a name. (Iterate over all items in a string)
+    Sum all numbers in a given list. (Iterate over all items in a list)
+
+When to use while loop: When you don't know in advance how many times you need to repeat, but you have a condition that, when False, should stop the repetition.
+    Keep asking for input until it's valid.
+    Keep guessing until the correct number is found.
+    Keep processing until a number becomes 1 (Collatz).
+    Run a menu until the user chooses to exit.
