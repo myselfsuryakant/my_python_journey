@@ -44,6 +44,9 @@ This repository contains beginner-level Python programs created as part of my jo
 
 09_while_loops/
   ├── 9.1-while-loop.py
+  ├── 9.2-while-timer.py
+  ├── 9.3-sum-of-natural-numbers.py
+  
 
 ```
 
