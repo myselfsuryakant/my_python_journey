@@ -3,7 +3,10 @@
 n = int(input("Enter a positive integer: ")) # Taking user input
 sum = 0 # This will be the sum, initialized by 0 because in the begining, sum must be 0
 current_number = 1 # This will calculate the number of counts
-
+while n <= 0:
+    n=int(input('Please enter a positive integer: '))
+    
+    
 while current_number <= n:
     sum = sum + current_number
     current_number += 1
