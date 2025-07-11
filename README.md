@@ -41,6 +41,10 @@ This repository contains beginner-level Python programs created as part of my jo
   ├── 8.3-for-even-number.py
   ├── 8.4-character-to-string.py
   └── 8.5-count-vowels.py
+
+09_while_loops/
+  ├── 9.1-while-loop.py
+
 ```
 
 ## 📚 Topics Covered
@@ -53,7 +57,7 @@ This repository contains beginner-level Python programs created as part of my jo
 - **Operators:** Arithmetic, conditional, and logical operators.
 - **If-Else:** Conditional statements and branching logic.
 - **For Loops:** Looping with `for`, counting digits, tables, working with strings, and vowels.
-
+- **While Loops:** Looping with `while` statements and related examples.
 ## 🚀 How to Run
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
