@@ -66,6 +66,7 @@ This repository contains beginner-level Python programs created as part of my jo
 - **If-Else:** Conditional statements and branching logic.
 - **For Loops:** Looping with `for`, counting digits, tables, working with strings, and vowels.
 - **While Loops:** Looping with `while` statements and related examples.
+- **Break, COntinue and, Pass Statements:** How these statements work and difference between them.
 ## 🚀 How to Run
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
