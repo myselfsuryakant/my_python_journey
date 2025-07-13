@@ -93,3 +93,7 @@ This repository contains beginner-level Python programs created as part of my jo
 
 Happy Coding!  
 **Suryakant**
+
+**Linkedin**: https://www.linkedin.com/in/myselfsuryakant/
+
+**Twitter/X**: https://twitter.com/myselfsuryakant/
