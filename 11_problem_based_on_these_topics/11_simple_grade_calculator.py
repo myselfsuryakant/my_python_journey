@@ -18,7 +18,6 @@ Your Goal: Write a Python program that:
         If the average is below 50: Print "[Student Name], unfortunately, you did not pass. You need to re-attempt."
 
     Make sure to print the student's name, total number of subjects, and their calculated average score before the final status message.
-    Add comments to your code to explain different sections.
 '''
 
 # Actionable steps
