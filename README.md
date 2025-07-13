@@ -52,7 +52,8 @@ This repository contains beginner-level Python programs created as part of my jo
   ├── 10.2continue.py
   └── 10.3pass.py
   
-
+11 _problem_based_on_these_topics
+  └── 11_simple_grade_calculator.py
 ```
 
 ## 📚 Topics Covered
@@ -67,6 +68,8 @@ This repository contains beginner-level Python programs created as part of my jo
 - **For Loops:** Looping with `for`, counting digits, tables, working with strings, and vowels.
 - **While Loops:** Looping with `while` statements and related examples.
 - **Break, COntinue and, Pass Statements:** How these statements work and difference between them.
+- **Problem Statement based on this set of topics:** Solve this problem to check if you have grasped the knowledge in these 10 topics.
+
 ## 🚀 How to Run
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
