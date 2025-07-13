@@ -54,6 +54,11 @@ This repository contains beginner-level Python programs created as part of my jo
   
 11 _problem_based_on_these_topics
   └── 11_simple_grade_calculator.py
+
+12 _strings
+  ├── 12.1_strings.py
+  ├── 12.2_indexing.py
+
 ```
 
 ## 📚 Topics Covered
