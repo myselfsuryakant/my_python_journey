@@ -3,6 +3,21 @@ Your task is to prepare a simple code able to evaluate the end time of a period 
 
 For example, if an event starts at 12:17 and lasts 59 minutes, it will end at 13:16.
 Hint: using the % operator may be the key to success.
+
+test data: 
+Input:                                       Output:
+12                                           13:16
+17
+59
+
+23                                           10:40
+58
+642
+
+0                                            1:0
+1
+2939
+
 '''
 hour = int(input("Starting time (hours): "))
 mins = int(input("Starting time (minutes): "))
